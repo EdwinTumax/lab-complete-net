@@ -1,0 +1,15 @@
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\bin\Debug\net6.0\CentralTelefonicaLab.exe
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\bin\Debug\net6.0\CentralTelefonicaLab.deps.json
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\bin\Debug\net6.0\CentralTelefonicaLab.runtimeconfig.json
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\bin\Debug\net6.0\CentralTelefonicaLab.dll
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\bin\Debug\net6.0\ref\CentralTelefonicaLab.dll
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\bin\Debug\net6.0\CentralTelefonicaLab.pdb
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\obj\Debug\net6.0\CentralTelefonicaLab.csproj.AssemblyReference.cache
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\obj\Debug\net6.0\CentralTelefonicaLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\obj\Debug\net6.0\CentralTelefonicaLab.AssemblyInfoInputs.cache
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\obj\Debug\net6.0\CentralTelefonicaLab.AssemblyInfo.cs
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\obj\Debug\net6.0\CentralTelefonicaLab.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\obj\Debug\net6.0\CentralTelefonicaLab.dll
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\obj\Debug\net6.0\ref\CentralTelefonicaLab.dll
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\obj\Debug\net6.0\CentralTelefonicaLab.pdb
+C:\Users\Developer\Documents\2022\kinal\develop\net\CentralTelefonicaLab\obj\Debug\net6.0\CentralTelefonicaLab.genruntimeconfig.cache
